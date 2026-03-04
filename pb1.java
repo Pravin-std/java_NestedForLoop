@@ -15,7 +15,7 @@ public class pb1
             }
             System.out.println();
         }
-        sc.close();
+        
     }
     
 }
