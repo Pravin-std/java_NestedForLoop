@@ -1,4 +1,4 @@
-package NestedForLoop;
+
 import java.util.*;
 public class pb2 {
     public static void main(String[] args) {
@@ -15,5 +15,6 @@ public class pb2 {
             }
             System.out.println();
         }
+        sc.close();;
     }
 }
